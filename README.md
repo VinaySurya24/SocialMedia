@@ -1,8 +1,60 @@
-# React + Vite
+# Social Media App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Medium-style social media application built with React, featuring an AI assistant and modern UI design.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Visit the live application at: [https://vinaysurya24.github.io/SocialMedia](https://vinaysurya24.github.io/SocialMedia)
+
+## Features
+
+- Medium-style article layout
+- AI Assistant (GitHub Copilot and ChatGPT integration)
+- Responsive design
+- Swastik logo
+- Post creation and interaction
+- Tag system
+- Reading time estimates
+
+## Development
+
+1. Clone the repository:
+```bash
+git clone https://github.com/VinaySurya24/SocialMedia.git
+```
+
+2. Install dependencies:
+```bash
+cd SocialMedia
+npm install
+```
+
+3. Run the development server:
+```bash
+npm run dev
+```
+
+4. Build for production:
+```bash
+npm run build
+```
+
+5. Deploy to GitHub Pages:
+```bash
+npm run deploy
+```
+
+## Technologies Used
+
+- React
+- Vite
+- CSS3
+- GitHub Pages
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
