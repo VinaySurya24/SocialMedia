@@ -4,7 +4,7 @@ A Medium-style social media application built with React, featuring an AI assist
 
 ## Live Demo
 
-Visit the live application at: [https://vinaysurya24.github.io/SocialMedia](https://vinaysurya24.github.io/SocialMedia)
+Visit the live application at: https://social-media-wr7j.vercel.app/
 
 
 ## Features
